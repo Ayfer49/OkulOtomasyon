@@ -1,0 +1,2 @@
+# OkulOtomasyon
+Okul otomasyon projesi
